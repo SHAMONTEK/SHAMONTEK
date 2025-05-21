@@ -1,5 +1,7 @@
 # 👑 Welcome to Knight-Hybrid Labs
-Hi, I’m @SHAMONTEK — a builder at the edge of art, engineering, and identity. This repo is the evolving archive of real, living projects that blend utility, design, and monetization.
+Hi, I’m @SHAMONTEK 
+
+The builder at the edge of art, engineering, and identity. This repo is the evolving archive of real, living projects that blend utility, design, and monetization.
 
 ---
 
@@ -35,21 +37,11 @@ Hi, I’m @SHAMONTEK — a builder at the edge of art, engineering, and identity
 - Email: shamontek@outlook.com
 - LinkedIn: [linkedin.com/in/shamonte](https://linkedin.com/in/shamonte)
 
----
 
-## 😄 Pronouns
-
-He/Him — but built like a system.
-
----
 
 ## ⚡ Fun Fact
 
-Every line of code here was written not just to *run*, but to **redefine** who I am.
+Every line of code here was written not just to *run*, but to redefine who I am.
 
----
-
-> This repo isn’t just a portfolio.  
-> It’s proof that I’m playing the long game — in public.
 
 🡒 Watch the climb.
