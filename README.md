@@ -1,7 +1,8 @@
 # 👑 Welcome to Knight-Hybrid Labs
-Hi, I’m @SHAMONTEK 
+Hi, I’m @SHAMONTEK  
 
-The builder at the edge of art, engineering, and identity. This repo is the evolving archive of real, living projects that blend utility, design, and monetization.
+Building at the edge of art, engineering, and identity. This repo is the evolving archive of real, living projects that blend utility and design.
+I use buts to build/code, I implement -> test -> design -> then share the magic!
 
 ---
 
