@@ -1,8 +1,10 @@
-# 👑 Welcome to Knight-Hybrid Labs
-Hi, I’m @SHAMONTEK  
+Hi, I, Shamonte Knight, welcome you.
+Here, we could be building at the edge of art, engineering, and identity. This repo is the evolving archive of real, living projects that blend utility and design.
+I successfully manage my ai's to build/code, with my finger and ideas!!
+That means you can too!
 
-Building at the edge of art, engineering, and identity. This repo is the evolving archive of real, living projects that blend utility and design.
-I use buts to build/code, I implement -> test -> design -> then share the magic!
+
+I implement -> test -> design -> then share the magic!
 
 ---
 
@@ -41,8 +43,7 @@ I use buts to build/code, I implement -> test -> design -> then share the magic!
 
 
 ## ⚡ Fun Fact
-
-Every line of code here was written not just to *run*, but to redefine who I am.
+Fan of Author Robert Greene. 
 
 
 🡒 Watch the climb.
